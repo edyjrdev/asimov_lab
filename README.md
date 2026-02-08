@@ -1,5 +1,5 @@
 # Asimov Academy  
----
+---  
 ## Trilhas  
 [ ] Aprendendo Python  
 [ ] Python Office: Python para Empresas  
@@ -13,9 +13,9 @@
 [ ] Multi-Agent Systems com CrewAI  
 [ ] Modelos Alternativos com Hugging Face  
 [ ] Visão Computacional com Python  
----
+---  
 ## Outros  
 [ ] Automatizando Tudo com n8n  
----
+---  
 ## Skills  
----
+---  
